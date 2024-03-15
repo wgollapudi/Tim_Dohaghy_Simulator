@@ -1,4 +1,4 @@
-
+#test
 #works up until the games he sat (load management BUM)
 with open('2022-2023.csv', 'r') as file:
     for line in file:
